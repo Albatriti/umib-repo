@@ -1,0 +1,4 @@
+{
+  "microsoft.useMsal": true,
+  "microsoft-sovereign-cloud.environment": "custom"
+}
